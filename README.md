@@ -1,8 +1,9 @@
-     <img width="400" height="44" alt="image" src="https://github.com/user-attachments/assets/1bfa67fa-b84d-4351-9926-bd508bb790db" />
-                                                            system
+wip 
 
 
 
 
 
-                                                            <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/0ebcd80b-486b-4bc9-b6c4-dc20be9ce75d" />
+
+
+<img width="220" height="223" alt="image" src="https://github.com/user-attachments/assets/dbbc3a0b-f21d-4ef7-806a-81ced1901791" />
